@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{295:function(n,t,s){"use strict";s.r(t);var i=s(14),r=Object(i.a)({},(function(){this._self._c;return this._m(0)}),[function(){var n=this._self._c;return n("p",[n("br"),this._v("\n  联系方式："),n("b",[this._v("237661791")]),this._v("（QQ）\n  "),n("br")])}],!1,null,null,null);t.default=r.exports}}]);
